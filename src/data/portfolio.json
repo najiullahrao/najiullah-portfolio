@@ -1,0 +1,145 @@
+{
+  "personal": {
+    "name": "Najiullah Rao",
+    "title": "Full Stack Engineer",
+    "tagline": "Building scalable web apps & seamless digital experiences",
+    "bio": "Versatile Software Developer with expertise in modern front-end and back-end technologies. Skilled in building scalable, high-performance web and mobile applications using JavaScript and TypeScript. Passionate about problem-solving and staying updated with emerging technologies.",
+    "location": "Pakistan",
+    "email": "najiullah.rao@gmail.com",
+    "phone": "+92 323 8866875",
+    "website": "https://najiullahrao.dev",
+    "social": {
+      "github": "https://github.com/najiullahrao",
+      "linkedin": "https://www.linkedin.com/in/najiullah-rao",
+      "twitter": "https://x.com/RaoNaji11536"
+    }
+  },
+  "skills": [
+    {
+      "category": "Frontend Development",
+      "items": ["React", "Next.js", "JavaScript","Typescript", "Tailwind CSS", "Bootstrap"],
+      "level": 85
+    },
+    {
+      "category": "Backend Development",
+      "items": ["Node.js", "Express.js", "Nest.js", "PostgreSQL", "MongoDB" , "Firebase", "REST APIs"],
+      "level": 85
+    },
+    {
+      "category": "Mobile Development",
+      "items": ["React Native", "Expo", "AsyncStorage", "Firebase Auth"],
+      "level": 70
+    },
+    {
+      "category": "Other Tools & Technologies",
+      "items": ["Git & GitHub","JWT", "Stripe Integration", "OAuth", "Prisma"],
+      "level": 85
+    }
+  ],
+  "experience": [
+    {
+      "company": "INOVAQO (Internship)",
+      "position": "Software Engineering Intern",
+      "duration": "2025 - Present",
+      "description": "Working on full-stack web applications, implementing authentication, payment systems, and scalable backend APIs.",
+      "achievements": [
+        "Integrated Stripe one-time payment flow in Next.js apps",
+        "Built dashboard UI with CRUD functionality for multiple apps",
+        "Worked on OAuth client integration for Bluesky (atproto)"
+      ]
+    },
+    {
+      "company": "Freelance Projects",
+      "position": "Full Stack Developer",
+      "duration": "2024 - Present",
+      "description": "Developed various personal and freelance projects focusing on modern web technologies.",
+      "achievements": [
+        "Built a full-stack The-Mercury app",
+        "Developed multiple Next.js apps including WeatherDesk & Bluesky Downloader",
+        "Created PocketTrack, an expense tracker mobile app using React Native"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virtual University",
+      "degree": "Bachelor's in Software Engineering",
+      "duration": "2023 - 2027"
+    }
+  ],
+  "projects": [
+    {
+      "title": "WeatherDesk",
+      "description": "A weather dashboard app with real-time forecasts, subscription-based premium features, and Stripe payment integration.",
+      "technologies": ["Next.js", "Stripe", "OpenWeatherMap API", "Firebase", "Node.js"],
+      "features": [
+        "Current & 5-day weather forecast",
+        "Premium subscription via Stripe",
+        "Responsive dashboard UI"
+      ],
+      "demo_url": "",
+      "github_url": "https://github.com/najiullahrao/weatherdesk",
+      "image": "/projects/weatherdesk/location.jpg"
+    },
+    {
+      "title": "Task Manager with Timer & Billing",
+      "description": "A feature-rich task management app built with Next.js, including timers, billing toggles, and Firebase authentication.",
+      "technologies": ["Next.js", "Firebase", "Tailwind CSS"],
+      "features": [
+        "Task creation, editing, and deletion",
+        "Start/stop timer for each task",
+        "Date picker & billing (true/false) toggle",
+        "Authentication with Firebase"
+      ],
+      "github_url": "https://github.com/najiullahrao/TaskManager",
+      "image": "/projects/task-manager.jpg"
+    },    
+    {
+      "title": "Fiverr Clone",
+      "description": "A full-stack Fiverr-like platform built with PostgreSQL and modern web technologies.",
+      "technologies": ["Node.js", "Express.js", "PostgreSQL", "EJS"],
+      "features": [
+        "Full CRUD operations",
+        "User authentication",
+        "Responsive design"
+      ],
+      "github_url": "https://github.com/najiullahrao/Fiverr_FullStack_Website",
+      "image": "/projects/fiverr-clone.jpg"
+    },
+    {
+      "title": "PocketTrack",
+      "description": "An expense tracker mobile app built with React Native & Expo.",
+      "technologies": ["React Native", "Expo", "AsyncStorage", "Firebase Auth"],
+      "features": [
+        "Income/expense tracking",
+        "Charts & filters",
+        "Persistent login with AsyncStorage"
+      ],
+      "github_url": "https://github.com/najiullahrao/PocketTrack",
+      "image": "/projects/pockettrack.jpg"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "The Complete Full-Stack Web Development Bootcamp",
+      "issuer": "Udemy",
+      "date": "2025"
+    },
+    {
+      "name": "SQL(Structured Query Language)",
+      "issuer": "HackerRank",
+      "date": "2025"
+    },
+    {
+      "name": "Supervised Machine Learning",
+      "issuer": "DeepLearning.AI",
+      "date": "2024"
+    }
+  ],
+  "theme": {
+    "primaryColor": "#2563eb",
+    "accentColor": "#14b8a6",
+    "backgroundColor": "#0f172a",
+    "textColor": "#f8fafc"
+  }
+}
