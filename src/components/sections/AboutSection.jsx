@@ -35,7 +35,7 @@ export default function AboutSection({ data }) {
       >
         {/* Section Header */}
         <motion.div variants={itemVariants} className="text-center mb-16">
-          <h2 className="text-5xl md:text-6xl font-bold text-glow mb-4">About Me</h2>
+          <h2 className="text-5xl md:text-6xl font-bold text-glow mb-4">Who I Am</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Get to know the person behind the code and creativity
           </p>
